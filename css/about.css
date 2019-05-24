@@ -5,10 +5,8 @@ body{
 }
 .all{
 
-     width: 600px;
-     height: 600px;
-     margin :30px;
-     padding : 6px;
+     display: flex;
+     flex-direction: row;
 }
 h3{
     color:aqua;
