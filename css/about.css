@@ -4,6 +4,13 @@ body{
     color: whitesmoke;
 }
 .all{
-     display: flex;
-     flex-direction: row;
+
+     width: 600px;
+     height: 600px;
+     margin :20px;
+     padding : 6px;
+}
+h3{
+    color:aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
