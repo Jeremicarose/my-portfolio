@@ -1,0 +1,9 @@
+body{
+    background-image:url("https://t4.ftcdn.net/jpg/00/70/41/19/240_F_70411929_1eXidyzB3XHjgl9z46Cwqp2Ts54LAew2.jpg");
+    background-size: cover;
+    color: whitesmoke;
+}
+.all{
+     display: flex;
+     flex-direction: row;
+}
