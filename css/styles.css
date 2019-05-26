@@ -6,6 +6,8 @@ body{
 .container{
     font-size: 3em;
     text-align: center;
+    margin: 1opx;
+    padding: 10px;
 }
 span{
     color: aqua;
@@ -14,5 +16,11 @@ span{
 footer{
     margin: 20px;
     padding: 10px;
+    font-size: 10px;
+
+}
+nav{
+    font-size: 2em;
 }
     
+ 
