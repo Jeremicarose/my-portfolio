@@ -15,8 +15,8 @@ The portfolio entails my skills ,awards i have recived and some of my projects
 * CSS
 
 ## Support and contact details
-Email :arosejeremic5@gmail.com
-phome number: 0742518807
+* Email :arosejeremic5@gmail.com
+* phone number: 0742518807
 
 ## Live Demo
 https://jeremicarose.github.io/my-portfolio/
