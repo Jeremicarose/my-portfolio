@@ -2,7 +2,7 @@
 ## Description
 The portfolio entails his skills ,awards he has recived and some of his projects.
 ## Setup/Installation Requirements
-click the fork button
+click the fork button.  
 click the download button to clone my work
 ## Technologies Used
 HTML
