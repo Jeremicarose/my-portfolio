@@ -28,7 +28,9 @@ nav ul li{
     display: inline-block;
     margin: auto;
     padding:10px;
-    
+}
+nav ul li a{
+    color: cyan;
 }
 
     
