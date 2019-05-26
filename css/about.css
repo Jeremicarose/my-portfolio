@@ -20,7 +20,12 @@ h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
-# :hover{
+#:hover{
     background-color: silver;
+    margin :0%;
+
+}
+img{
+    border: 2px solid black;
 }
     
