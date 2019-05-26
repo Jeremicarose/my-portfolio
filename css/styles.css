@@ -33,6 +33,12 @@ nav ul li a{
     color: cyan;
     text-decoration: none;
 }
+nav ul{
+    text-align: right;
+}
+nav ul li a :hover {
+    background-color: darkgray;
+}
 
     
  
