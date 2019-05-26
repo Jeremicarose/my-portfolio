@@ -22,5 +22,9 @@ footer{
 nav{
     font-size: 2em;
 }
+nav ul li{
+    display: inline-block;
+}
+
     
  
