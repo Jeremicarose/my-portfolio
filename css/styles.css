@@ -39,7 +39,11 @@ nav ul{
 nav >ul >li >a :hover {
     background-color: darkgray;
 }
-
+a:hover{
+    background-color: aqua;
+    color: black;
+    margin :0%;
+}
 
     
  

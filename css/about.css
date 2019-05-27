@@ -40,10 +40,10 @@ h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
-#:hover{
-    background-color: silver;
+a:hover{
+    background-color: aqua;
+    color: black;
     margin :0%;
-
 }
 img{
     border: 2px solid black;
